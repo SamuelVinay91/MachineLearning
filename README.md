@@ -3,7 +3,9 @@ Machine learning related sources(Updated-2019-08-04 23:50:32)
 Covers:
 Python Basics
 Numpy
-Pandas(In Progress)
+Pandas
+MatplotLib,
+Scikit Learn(In progress)
 
 Simplilearn Classes can be found from
 
